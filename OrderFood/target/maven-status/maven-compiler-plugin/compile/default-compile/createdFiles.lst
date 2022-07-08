@@ -1,0 +1,7 @@
+com\orderfood\OrderFoodApplication.class
+com\orderfood\dao\DiscountRepository.class
+com\orderfood\daoImpl\PersonDetailDaoImpl.class
+com\orderfood\model\Discount.class
+com\orderfood\service\UserManagementService.class
+com\orderfood\dao\PersonDetailDao.class
+com\orderfood\model\Person.class
